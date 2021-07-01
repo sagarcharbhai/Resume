@@ -1,0 +1,61 @@
+
+#one{
+    margin: 10px;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid Black;
+    width: fit-content;
+}
+#two{
+    padding-left: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 40px;
+}
+#three{
+    margin: 10px;
+    background-color: darkgray;
+    
+}
+#four{
+    padding-left: 5px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+}
+#five{
+    margin: 10px;
+    background-color: darkgray;
+}
+#six{
+    margin: 10px;
+    text-align: center;
+}
+#seven{
+    margin: 10px;
+    background-color: darkgray;
+}
+
+#eight{
+    margin: 40px;
+    text-align:justify;
+    
+}
+#nine{
+    margin: 10px;
+    background-color: darkgray;
+    text-decoration: underline;
+    width:fit-content;
+    
+}
+#ten{
+    margin: 40px;
+    font-weight: bold;
+}
+
+#eleven{
+    margin: 10px;
+    background-color: darkgray;
+}
+
+
